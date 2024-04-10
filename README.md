@@ -1,2 +1,2 @@
-# WebShoppee
-clone  web shoppee ux/ui
+# Web-ban-hang
+html, css, responsive
